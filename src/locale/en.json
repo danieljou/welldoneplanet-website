@@ -1,0 +1,123 @@
+{
+	"welcome": "Welcome to my site!",
+	"about": "About",
+	"contact": "Contact",
+	"splifiez": "Simplify your life",
+	"home_desc": "We believe that thanks to digital everything is possible for a better planet. Discover our innovative services and our commitment to a more sustainable future.",
+	"services": [
+		{
+			"Icon": "1",
+			"title": "Cost-effectiveness",
+			"details": "We provide affordable IT solutions that help you reduce costs and improve your bottom line."
+		},
+		{
+			"Icon": "2",
+			"title": "Innovative technology",
+			"details": "We constantly remain on the lookout for the latest technological developments, thus offering innovative solutions that position you at the head of the competitive race."
+		},
+		{
+			"Icon": "3",
+			"title": "Sectoral expertise",
+			"details": "Our expertise spans diverse sectors including e-commerce, manufacturing, healthcare, transportation, banking, financial services, telecommunications, education, energy, etc."
+		},
+		{
+			"Icon": "4",
+			"title": "Scalability",
+			"details": "Our solutions are scalable and can grow with your business, allowing you to get the most out of your investment."
+		},
+		{
+			"Icon": "5",
+			"title": "Responsibility",
+			"details": "We are committed to being a socially responsible company, actively contributing to the communities where we operate and acting ethically in all our activities."
+		},
+		{
+			"Icon": "6",
+			"title": "The customer experience",
+			"details": "Our top priority is to create an exceptional experience for our customers. We strive to understand their needs and expectations, providing personalized service and maintaining close relationships to ensure their satisfaction."
+		}
+	],
+	"own_services": [
+		{
+			"image": "dev",
+			"title": "Software Development",
+			"description": "Our team of seasoned developers is highly skilled at designing and creating custom software that precisely meets your business needs. We are committed to providing reliable, scalable software solutions that will optimize your operations and drive your growth. "
+		},
+		{
+			"image": "dev2",
+			"title": "Web and Mobile Development",
+			"description": "We are passionate about creating exceptional mobile and web applications that deliver a smooth and memorable user experience. Our development team combines strong technical expertise with aesthetic sensitivity to create user-friendly interfaces, optimal performance and cross-platform compatibility."
+		},
+		{
+			"image": "support_technique",
+			"title": "Technical consultation and support",
+			"description": "We understand that technology can sometimes be complex and confusing. That's why our team of seasoned technical consultants are here to guide you through every step of your project."
+		},
+		{
+			"image": "maintenance",
+			"title": "Computer maintenance",
+			"description": "Regular maintenance of your IT infrastructure is essential to keep it running smoothly and securely. Our IT maintenance team is here to give you peace of mind."
+		},
+		{
+			"image": "marketing",
+			"title": "Digital Marketing",
+			"description": "In today's digital world, a strong online presence and an effective marketing strategy are essential for the growth of your business. Our team of digital marketers is here to help you achieve your online goals."
+		},
+		{
+			"image": "infographie",
+			"title": "Infographics",
+			"description": "A picture is worth a thousand words, and our team of talented graphic designers are here to turn your ideas into visually captivating designs. Whether you need to create an impactful logo, engaging visuals, unique illustrations, or infographics informative, we will bring a creative touch to your visual communication."
+		},
+		{
+			"image": "big_data",
+			"title": "IoT/AI and Big Data",
+			"description": "We help you harness the benefits of the Internet of Things (IoT), Artificial Intelligence (AI), and Big Data. Our expertise in these areas allows you to collect, analyze, and 'effectively exploit data to make informed decisions, optimize your processes and create innovative products and services."
+		},
+		{
+			"image": "training",
+			"title": "IT training",
+			"description": "We offer personalized IT training programs to improve the skills of your employees. Our experienced trainers provide practical courses tailored to your specific needs, allowing you to stay up to date with the latest technologies and optimize the use of your IT resources."
+		}
+	],
+	"menu": [
+		{ "path": "/", "title": "Home" },
+		{ "path": "/services", "title": "Services" },
+		{ "path": "/about-us", "title": "About" },
+		{ "path": "/contacts", "title": "Contacts" },
+		{ "path": "/blog", "title": "Blog" }
+	],
+	"us_and_you": "Us and you an unparalleled proximity",
+	"about_messages": [
+		{
+			"title": "Innovation at the Speed of Light: ",
+			"msg": "At Welldone Planet, speed of execution is our art. We transform your ideas into digital reality with exceptional agility."
+		},
+		{
+			"title": "Creativity That Inspires: ",
+			"msg": "Let us rock your project with limitless creativity. Every line of code is a work of art."
+		},
+		{
+			"title": "Responsiveness Redefined: ",
+			"msg": "Your success cannot wait. Our responsive team is ready to meet your needs with efficiency that defies standards."
+		},
+		{
+			"title": "Customized flexibility: ",
+			"msg": "Every project is unique, just like our solutions. Welldone Planet adapts to your specific needs with a flexibility that defines our approach."
+		}
+	],
+	"name": "Name",
+	"surname": "First name",
+	"email": "Email addresse",
+	"team_help": "Our friendly team is here to help.",
+	"team_help1": "Our team is here to help you",
+	"localize": "Come to our premises",
+	"send_message": "Send a message",
+	"phone": "Phone Number",
+	"univsers": "Discover Our Universe",
+	"next_uinivers": "Discover the refined world of new information and communication technologies.",
+	"about_wp": "What is Welldone Planet?",
+	"contacts_us": "Contact us",
+	"persuasion": "We are convinced that with digital technology we can change the planet towards a more pleasant one.",
+	"pn": "Your Journey to Digital Excellence",
+	"terrain_innovation": "Our playground? Innovation, tailor-made application development, impactful digital marketing, and the magical creation of websites that tell your story.",
+	"our_team": "Our Team"
+}
